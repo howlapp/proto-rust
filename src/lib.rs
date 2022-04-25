@@ -1,5 +1,5 @@
-//! # furink-proto
-//! Rust definitions for the fur.ink gRPC backend services.
+//! # howl-proto
+//! Rust definitions for howl gRPC backend services.
 
 //! Protocol version string, compiled from git revision and semver.
 pub static VERSION: &'static str = env!("VERGEN_GIT_SEMVER");
